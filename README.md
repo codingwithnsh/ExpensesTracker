@@ -27,7 +27,7 @@ pip install pandas matplotlib
 ### Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/AdvancedExpenseTracker.git
+   git clone https://github.com/codingwithnsh/AdvancedExpenseTracker.git
    ```  
 2. Navigate to the project directory:  
    ```bash
@@ -35,7 +35,7 @@ pip install pandas matplotlib
    ```  
 3. Run the application:  
    ```bash
-   python VinalsProgram.py
+   python main.py
    ```  
 
 ## 📊 How It Works  
