@@ -1,4 +1,4 @@
-# AdvancedExpenseTracker
+# AdvancedExpensesTracker
 
 ## 📚 Overview  
 AdvancedExpenseTracker is a Python application designed to simplify expense management. With an intuitive GUI powered by Tkinter, this app allows users to log, categorize, and analyze their expenses. It also features data visualization through bar charts and persistent storage via CSV files.
